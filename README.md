@@ -8,11 +8,11 @@ Basado en NodeJs utilizando Express y como base de datos MongoDB.
 
 _Como primera instancia es necesario descargar el proyecto._
 
-Esto puede realizarse utilizando el comando **git clone https://github.com/ArroyoLeandro/ArTeam**
+Esto puede realizarse utilizando el comando "**git clone https://github.com/ArroyoLeandro/ArTeam**"
 
 _Una vez realizado el paso anterior,es necesario realizar la instalacion de las dependencias._
 
-Estas podran ser descargadas mediante el comando **npm install**
+Estas podran ser descargadas mediante el comando "**npm install**"
 
 ### Pre-requisitos 📋
 
@@ -22,7 +22,7 @@ _Es completamente necesario tener instalado_
 
 ## Despliegue 📦
 
-_Una vez instaladas todas las dependencias queda desplegar el proyecto mediante **npm start** o en su defecto **nodemon index.js**._
+_Una vez instaladas todas las dependencias queda desplegar el proyecto mediante "**npm start**" o en su defecto "**nodemon index.js**"._
 
 ## Construido con 🛠️
 
